@@ -1,0 +1,31 @@
+div1:hover p{
+display: block;
+text-align: center;
+
+}
+p{
+    display: none;
+    background-color: aquamarine;
+    width: 300px;
+}
+
+div2:hover p{
+    display: block;
+    text-align: center;
+}
+
+div3:hover p{
+    display: block;
+    text-align: center;
+}
+div4:hover p{
+    display: block;
+    text-align: center;
+}
+div5:hover p{
+    display: block;
+    text-align: center;
+}
+body{
+    background-color: rgb(199, 223, 112);
+}
